@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Happy Birthday</string>
+    <string name="happy_birthday_text">\" Happy Birthday !,Sanzeena\"</string>
+    <string name="birthday_card_from">\" - from Bibek\"</string>
+    <string name = "birthday_card_note">\"I want you to know that I love you till infinity.\"</string>
+</resources>
